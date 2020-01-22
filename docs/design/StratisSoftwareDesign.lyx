@@ -1384,7 +1384,7 @@ Layer 4: Thin Provisioning
 \end_layout
 
 \begin_layout Standard
-The two linear targets from L3 are used as metadata device and data device
+The two linear targets from L3 are used as a metadata device and data device
  for a DM thinpool device.
  The thinpool device implements a copy-on-write (CoW) algorithm, so that
  blocks in the data device are only allocated as needed to back the thin
