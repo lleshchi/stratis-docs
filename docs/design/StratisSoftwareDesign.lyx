@@ -1591,7 +1591,7 @@ Metadata Volume (MDV)
 \end_layout
 
 \begin_layout Standard
-Information on levels 0-4 is duplicated across all blockdevs within a on-disk
+Information on levels 0-4 is duplicated across all blockdevs within an on-disk
  metadata format called the Blockdev Data Area (BDA).
  The BDA consists of a binary Signature Block, and the Metadata Area (MDA),
  which stores information in a text-based JSON format.
