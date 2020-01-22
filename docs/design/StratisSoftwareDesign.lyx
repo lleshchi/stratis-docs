@@ -197,7 +197,7 @@ Goal: Bring advanced features to users in a simpler form
 Linux storage features are modular and stackable.
  This promotes flexibility and allows independent development efforts, but
  leads to a huge number of possible configurations.
- This requires the user manage the stack because there's not enough commonality
+ This requires the user to manage the stack because there's not enough commonality
  to enable effective automation.
 \end_layout
 
