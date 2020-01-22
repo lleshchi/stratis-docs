@@ -1394,7 +1394,7 @@ The two linear targets from L3 are used as a metadata device and data device
 \begin_layout Standard
 Stratis manages the thinpool device by extending the two L3 subdevices when
  either runs low on available blocks.
- If the pool approaches a point where the pool no longer has empty lower-level
+ If the pool approaches a point where it no longer has empty lower-level
  space to extend onto, Stratis alerts the user and takes action to avoid
  data corruption.
  Actions could include switching filesystems to read-only mode, running
